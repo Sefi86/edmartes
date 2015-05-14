@@ -6,6 +6,8 @@ public class CambiarHola {
 	System.out.println("operaciones"+ (1+1));
 	System.out.println("operaciones"+ (1+2));
 	System.out.println("operaciones"+ (1+3));
+	System.out.println("operaciones"+ (1+6));
+	System.out.println("operaciones"+ (1+1));
 	}
 
 }
