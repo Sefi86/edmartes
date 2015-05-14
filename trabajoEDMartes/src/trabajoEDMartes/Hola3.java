@@ -6,7 +6,7 @@ public class Hola3 {
 		
 		System.out.println("definitiva");
 		System.out.println("Prueba 1");
-		
+		System.out.println("Prueba 2");
 
 	}
 
