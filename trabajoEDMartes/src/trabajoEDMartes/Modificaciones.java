@@ -1,6 +1,6 @@
 package trabajoEDMartes;
 
-public class Hola4 {
+public class Modificaciones {
 
 	public static void main(String[] args) {
 		
