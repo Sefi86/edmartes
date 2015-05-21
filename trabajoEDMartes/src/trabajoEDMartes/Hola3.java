@@ -9,6 +9,9 @@ public class Hola3 {
 		System.out.println("Prueba 2");
 		System.out.println("Prueba 2");
 		System.out.println("Prueba 2");
+		System.out.println("prueba 2");
+		System.out.println("prueba 7");
+		System.out.println("prueba 8");
 	}
 
 }
